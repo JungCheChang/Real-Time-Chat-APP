@@ -30,7 +30,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/real-time-chat-app.git
+   git clone https://github.com/jungchechang/Real-Time-Chat-APP.git
 2. Navigate into the project directory:
    ```bash
    cd real-time-chat-app
