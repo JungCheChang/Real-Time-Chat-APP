@@ -44,3 +44,14 @@ Make sure you have the following installed:
     ```bash
     http://localhost:3000
 
+## Screenshot
+### Chat Room
+<img src="readme/room.png" width=700px>
+
+### New user joined
+<img src="readme/new_user.png" width=700px>
+
+### User chatting
+<img src="readme/chat.png" width=700px>
+
+
